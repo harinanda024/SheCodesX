@@ -1,0 +1,6 @@
+{
+  "name": "Sadak Saathi — Civic Road Safety Platform",
+  "description": "A community-powered civic web platform for reporting road hazards such as open manholes, potholes, broken footpaths, dangling wires, and waterlogging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
