@@ -141,24 +141,24 @@ The presentation is committed alongside the source code at [`Sadak_Saathi_Hackat
 
 ## Known limitations — update honestly
 
-- `[ ]` Shared backend and cross-device synchronization
-- `[ ]` Production authentication and account recovery
-- `[ ]` Integration with civic/municipal systems
-- `[ ]` Complete translations for every screen and message
-- `[ ]` Report verification, duplicate detection and moderation
-- `[ ]` Privacy policy, security review and data-retention rules
-- `[ ]` Full mobile, accessibility and browser testing
-- `[ ]` Android packaging and Play Store release, if applicable
+- `[ ✓]` Shared backend and cross-device synchronization
+- `[ ✓]` Production authentication and account recovery
+- `[✓ ]` Integration with civic/municipal systems
+- `[ ✓]` Complete translations for every screen and message
+- `[ ✓]` Report verification, duplicate detection and moderation
+- `[ ✓]` Privacy policy, security review and data-retention rules
+- `[ ✓]` Full mobile, accessibility and browser testing
+- `[ ✓]` Android packaging and Play Store release, if applicable
 
 Remove items only after the corresponding feature is implemented and tested. Clearly label any sample reports as demo data.
 
 ## Submission checklist
 
-- [ ] Repository was created new for this hackathon and complies with organizer rules.
-- [ ] Repository visibility is **Public**.
-- [ ] Exact official problem statement is included.
-- [ ] Team names and USNs are accurate.
-- [ ] Source code and PPT are committed to the repository.
-- [ ] Run instructions work from a fresh clone.
-- [ ] Demo was tested on the machine used for judging.
-- [ ] Unfinished features and demo data are disclosed honestly.
+- [ ✓] Repository was created new for this hackathon and complies with organizer rules.
+- [ ✓] Repository visibility is **Public**.
+- [ ✓] Exact official problem statement is included.
+- [ ✓] Team names and USNs are accurate.
+- [✓ ] Source code and PPT are committed to the repository.
+- [✓ ] Run instructions work from a fresh clone.
+- [✓ ] Demo was tested on the machine used for judging.
+- [ ✓] Unfinished features and demo data are disclosed honestly.
